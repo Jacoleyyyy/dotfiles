@@ -1,0 +1,1 @@
+/home/jay/dotfiles/.bashrc
